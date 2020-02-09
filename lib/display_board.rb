@@ -5,3 +5,5 @@ def display_board
   cell = "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
   print cell
 end
+
+display_board
